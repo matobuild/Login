@@ -1,0 +1,20 @@
+body {
+    height: 100%;
+    background-color: red;
+}
+
+.rounded-top-left-1 {
+    border-top-left-radius: 3rem;
+}
+
+.rounded-top-right-1 {
+    border-top-right-radius: 1rem;
+}
+
+.rounded-bottom-left-1 {
+    border-bottom-left-radius: 1rem;
+}
+
+.rounded-bottom-right-1 {
+    border-bottom-right-radius: 1rem;
+}
