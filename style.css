@@ -1,10 +1,12 @@
 body {
-    height: 100%;
-    background-color: red;
+    height: 100vh;
+    /* background-color: red; */
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 .rounded-top-left-1 {
-    border-top-left-radius: 3rem;
+    border-top-left-radius: 1rem;
 }
 
 .rounded-top-right-1 {
@@ -17,4 +19,8 @@ body {
 
 .rounded-bottom-right-1 {
     border-bottom-right-radius: 1rem;
+}
+
+span {
+    font-size: 12px;
 }
